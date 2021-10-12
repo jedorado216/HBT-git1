@@ -1,0 +1,9 @@
+Jhulieth Eliana Dorado
+
+Los comandos usados son:
+
+Git clone
+Git push
+Git checkcout
+Git pull
+Git Status
